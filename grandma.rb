@@ -1,5 +1,5 @@
-def speak_to_grandma(str)
-  if str == str.upcase
+def speak_to_grandma(string)
+  if string == string.upcase
     puts "NO, NOT SINCE 1938!"
     puts "NO, NOT SINCE 1938!"
   end
