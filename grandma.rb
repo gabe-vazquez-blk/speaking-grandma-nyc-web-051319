@@ -13,4 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(str)
   if str == "I LOVE YOU GRANDMA!"
-    puts ""
+    puts " LOVE YOU TOO PUMPKIN!"
+end
