@@ -14,5 +14,6 @@
 
 def speak_to_grandma(string)
   if string == string.upcase
-    puts 
+    puts "NO, NOT SINCE 1938!"
+  elif string == ""
 end
